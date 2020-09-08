@@ -98,8 +98,8 @@ max-width: 100%;
   border-radius: 50%;
   background-image: url('../img/Avatar.jpg');
   background-repeat: no-repeat;
-  background-position: center top;
-  background-size: 120%;
+  background-position: center center;
+  background-size: 100%;
   border: 8px solid #fff;
 }
 
